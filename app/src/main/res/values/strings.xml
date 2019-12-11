@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SeputarGunung</string>
+    <string name="mount_name">Nama Gunung</string>
+    <string name="mount_detail">Detail Gunung</string>
+    <string name="general_information">Informasi Umum</string>
+    <string name="mount_track">Informasi Jalur Pendakian</string>
+    <string name="profile_name">Muhamad Yoga Prasetya</string>
+    <string name="todo">TODO</string>
+    <string name="tv_email_profile">mhd.yogaprase@gmail.com</string>
+</resources>
